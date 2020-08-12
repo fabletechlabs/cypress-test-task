@@ -1,0 +1,10 @@
+{
+  "name": "cypress-test-task",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^4.12.1",
+    "cypress-axe": "^0.8.1"
+  },
+  "dependencies": {}
+}
