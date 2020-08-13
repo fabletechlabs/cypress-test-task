@@ -5,10 +5,9 @@ Thank you for your interest in joining Fable as QA Lead. We've prepared a simple
 
 ## Setup (requires Node.js)
 
-1. Fork this repo
-2. Clone your copy of the repo
-3. Run `npm install` in the working directory
-4. Open cypress with `./node_modules/.bin/cypress open`
+1. Clone or download a copy of the repo
+2. Run `npm install` in the working directory
+3. Open Cypress with `./node_modules/.bin/cypress open`
 
 ## Test task
 
@@ -20,8 +19,7 @@ Working in `cypress/integration/example_spec.js`:
 
 ## Submitting your work
 
-- Please commit and push your changes to your own fork of the repo
-- Email a link to your repo to perry@makeitfable.com
+Please email the `example_spec.js` file to perry@makeitfable.com
 
 ## Resources
 
