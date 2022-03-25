@@ -1,7 +1,7 @@
 Cypress test task
 =================
 
-Thank you for your interest in joining Fable as QA Lead. We've prepared a simple test task so you can demonstrate the skills which will be required in the position.
+Thank you for your interest in joining Fable as QA Analyst. We've prepared a simple test task so you can demonstrate the skills which will be required in the position.
 
 ## Setup (requires Node.js)
 
