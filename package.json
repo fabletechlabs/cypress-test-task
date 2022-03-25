@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "cypress": "^4.12.1",
-    "cypress-axe": "^0.8.1"
-  },
-  "dependencies": {}
+    "cypress": "^9.5.2",
+    "cypress-axe": "^0.14.0"
+  }
 }
